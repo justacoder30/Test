@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MyApp());
-  ////asdfasdfs
 }
 
 class MyApp extends StatelessWidget {
